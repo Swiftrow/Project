@@ -1,0 +1,8 @@
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\bin\Debug\DesktopClient.exe.config
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\bin\Debug\DesktopClient.exe
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\bin\Debug\DesktopClient.pdb
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\obj\Debug\DesktopClient.csprojResolveAssemblyReference.cache
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\obj\Debug\DesktopClient.Properties.Resources.resources
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\obj\Debug\DesktopClient.csproj.GenerateResource.Cache
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\obj\Debug\DesktopClient.exe
+c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\DesktopClient\obj\Debug\DesktopClient.pdb
