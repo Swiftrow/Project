@@ -1,0 +1,24 @@
+Create offers 
+-create an Offer class with all the atributes
+-store them in the database
+Display them on the front page
+-get information from the database
+-html
+-css for design
+
+Create wishlist for every registered customer
+-create WishList class. every object will have more  WishListLine objects that consists of a product and amount
+-create WishListLine class
+Add product to the wishlist of the customer
+-every costumer will have an WishList object
+Display wishlist 
+-html
+-css
+
+
+Add product to shopping list
+-create Sale class and SaleOrderLine
+Display total costs, amounts, product name
+-new web page
+-html
+-css

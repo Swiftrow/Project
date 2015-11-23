@@ -1,5 +1,0 @@
-c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\WCFWebService\bin\WCFWebService.dll.config
-c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\WCFWebService\bin\WCFWebService.dll
-c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\WCFWebService\bin\WCFWebService.pdb
-c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\WCFWebService\obj\Debug\WCFWebService.dll
-c:\users\brian_000\documents\visual studio 2013\Projects\DistibutedSolution\WCFWebService\obj\Debug\WCFWebService.pdb

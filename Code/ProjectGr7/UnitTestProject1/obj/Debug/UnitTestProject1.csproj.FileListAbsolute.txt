@@ -1,0 +1,14 @@
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Database.mdf
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Database_log.ldf
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Database.exe
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\Database.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\WcfService.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\UnitTestProject1\bin\Debug\WcfService.pdb

@@ -1,0 +1,10 @@
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\bin\Debug\Database.mdf
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\bin\Debug\Database_log.ldf
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\bin\Debug\Database.exe.config
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\bin\Debug\Database.exe
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\bin\Debug\Database.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\obj\Debug\Database.exe
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\obj\Debug\Database.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache

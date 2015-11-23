@@ -1,0 +1,6 @@
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\bin\WcfService.dll.config
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\bin\WcfService.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\bin\WcfService.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\obj\Debug\WcfService.dll
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Stan\Desktop\SkySales1_files\ProjectGr7\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
